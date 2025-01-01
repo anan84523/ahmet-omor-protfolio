@@ -335,7 +335,7 @@ samp{
 .testimonials-box img{
     width: 15rem;
     border-radius: 50%;
-    border: 3px solid aqua;
+    border: 3px solid white;
     box-shadow: 0 0 30px white;
 }
 .wrapper{
